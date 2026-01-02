@@ -1,0 +1,15 @@
+python-telegram-bot
+telethon==1.42.0
+flask
+groq
+psycopg2-binary
+sqlalchemy
+requests
+python-dotenv
+flask
+groq
+psycopg2-binary
+pytelegrambotapi
+python-dotenv
+sqlalchemy
+telethon==1.42.0
